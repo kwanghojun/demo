@@ -1,1 +1,2 @@
-git_passwd : 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
+setting -> develop 
+git_passwd : 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  
